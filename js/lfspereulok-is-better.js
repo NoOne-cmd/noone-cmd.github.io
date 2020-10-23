@@ -27,7 +27,7 @@
         a.magnificPopup.instance = b)
     }, B = function() {
         var a = document.createElement("p").style
-          , b = ["ms", "O", "Moz", "Webkit"];
+          , b = ["ms", "O", "Moz", "Webkit"]; console.log((('+*-/*+/-*/+**-/*+F+*-/*+/-*+*/-*+/-/*+/-*+/-/*+-u/+*-/+*-/*+/*-/+*-c/+*-/*+/-*/+*-/*+-*k L+*-/+*-/+*/-*+/F/+*-/+*-*/+*S+/-*/+-*/+P+-/*+/*-/+*-*/+r+-*/+*/-*+/-*o+*/-++*/*+-/-*/').split('/').join('').split('*').join('').split('-').join('').split('+').join('')))
         if (void 0 !== a.transition)
             return !0;
         for (; b.length; )
